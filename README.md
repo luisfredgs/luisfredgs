@@ -2,6 +2,7 @@
 
 My name is Luis. I'm an academic in the Machine Learning area with a focus on Natural Language Processing - NLP. I'm currently working towards a doctor's degree in Computational Inteligence through the Science Computer department at Universidade Federal de Pernambuco - UFPE.
 
+I have experience in Data Analysis and machine learning. Having earned a master's degree in computational inteligence has provide me a solid background in machine learning and statistical analysis.
 
 - I’m currently working on text mining and NLP tasks using supervised and unsupervised machine learning techniques
 - My current interests of research:
