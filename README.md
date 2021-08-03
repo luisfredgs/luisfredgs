@@ -10,7 +10,7 @@ I have experience in Data Analysis and machine learning. Having earned a master'
   * Text classification
   * Machine Reading Comprehension
   * Clustering Analysis on textual data
-- I’m interested to collaborate on indistrual or academic projects
+- I’m interested to collaborate on academic projects
 - How to reach me: [www.linkedin.com/in/luisfredgs](www.linkedin.com/in/luisfredgs)
 - My blog [https://medium.com/luisfredgs](https://medium.com/luisfredgs)
 
