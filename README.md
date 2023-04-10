@@ -8,9 +8,10 @@ I have experience in Data Analysis and machine learning. Having earned a master'
 - My current interests of research:
   * Text summarization
   * Text classification
-  * Machine Reading Comprehension
-  * Self-supervised learning
   * Clustering Analysis on textual data
+  * Anomaly Detection
+  * Graph Neural Networks
+  * Graph Representation Learning
 - I’m interested to collaborate on academic projects
 - How to reach me: [www.linkedin.com/in/luisfredgs](www.linkedin.com/in/luisfredgs)
 - My blog [https://medium.com/luisfredgs](https://medium.com/luisfredgs)
