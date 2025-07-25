@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-My name is Luis. I'm an academic in the Machine Learning area with a focus on Natural Language Processing and Graph AI techniques. I'm currently a PhD student in Computer Science at [Cin-UFPE](https://www3.cin.ufpe.br/en/).
+My name is Luís Gonçalves. I earned my Ph.D. in Computer Science from the Centro de Informática (CIn) at the Universidade Federal de Pernambuco Pernambuco (UFPE), Brazil. My academic background and research activities are centered on Machine Learning and Graph-based Artificial Intelligence, with particular emphasis on anomaly detection in complex data systems.
 
-I have experience in Data Analysis and machine learning. Having earned a master's degree in computational inteligence has provide me a solid background in machine learning and statistical analysis.
-
-- I’m currently working on text mining and NLP tasks using supervised and unsupervised machine learning techniques
 - My current interests of research:
   * Text summarization
   * Text classification
